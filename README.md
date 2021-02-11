@@ -5,7 +5,7 @@ EJERCICIO 2:Con git clone https://github.com/JesCorAvi/refuerzo-JCA.git clono el
 
 EJERCICIO 3:El archivo README.md ya esta creado, ya que seleccioné la opcion al principio.
 
-EJERCICIO 4:
+EJERCICIO 4: Añado los archivos con git add . y hao el commit con git commit -m "commit inicial"
 
 EJERCICIO 5:
 
