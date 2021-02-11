@@ -52,6 +52,6 @@ EJERCICIO 12:
 
 EJERCICIO 13:
 
-![]()
+![](https://github.com/JesCorAvi/refuerzo-JCA/blob/main/capturas/captura%2013.png)
 
 
