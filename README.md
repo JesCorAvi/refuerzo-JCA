@@ -40,7 +40,7 @@ EJERCICIO 10: Aqui añado una foto de perfil a GitHub
 
 EJERCICIO 11:
 
-![]()
+![](https://github.com/JesCorAvi/refuerzo-JCA/blob/main/capturas/captura%2011.png)
 
 EJERCICIO 12:
 
