@@ -1,4 +1,6 @@
 # refuerzo-JCA
+ACTIVIDAD 4
+
 EJERCICIO 1: Aquí estoy creando el nuevo repositorio
 ![](https://github.com/JesCorAvi/refuerzo-JCA/blob/main/capturas/captura%201.png)
 
@@ -54,4 +56,64 @@ EJERCICIO 13:
 
 ![](https://github.com/JesCorAvi/refuerzo-JCA/blob/main/capturas/captura%2013.png)
 
+
+ACTIVIDAD 5
+
+![]()
+
+EJERCICIO 1
+
+![]()
+
+EJERCICIO 2
+
+![]()
+
+EJERCICIO 3
+
+![]()
+
+EJERCICIO 4
+
+![]()
+
+EJERCICIO 5
+
+![]()
+
+EJERCICIO 6
+
+![]()
+
+EJERCICIO 7
+
+![]()
+
+EJERCICIO 8
+
+![]()
+
+EJERCICIO 9
+
+![]()
+
+EJERCICIO 10
+
+![]()
+
+EJERCICIO 11
+
+![]()
+
+EJERCICIO 12
+
+![]()
+
+EJERCICIO 13
+
+![]()
+
+EJERCICIO 14
+
+![]()
 
