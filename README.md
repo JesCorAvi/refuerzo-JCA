@@ -75,27 +75,27 @@ EJERCICIO 4:Cambio a la rama main con git checkout main y hago el merge con git 
 
 ![]()
 
-EJERCICIO 5:
+EJERCICIO 5:añadidos los cambios a las dos ramas e intento de merge entre las dos ramas 
 
 ![]()
 
-EJERCICIO 6:
+EJERCICIO 6: muestro las ramas existentes con git branch
 
 ![]()
 
-EJERCICIO 7:
+EJERCICIO 7:arreglo los conflictos existentes en el merge
 
 ![]()
 
-EJERCICIO 8:
+EJERCICIO 8:Aqui añado el tag con git tag -l v0.2 y borro la version v2.0 con git branch -D v2.0 (se supone que la rama se debia llamar v0.2 pero me equivoqué)
 
 ![]()
 
-EJERCICIO 9:
+EJERCICIO 9:aqui se puede ver el log
 
 ![]()
 
-EJERCICIO 10:
+EJERCICIO 10:Organización creada
 
 ![]()
 
