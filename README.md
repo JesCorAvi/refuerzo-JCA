@@ -59,61 +59,59 @@ EJERCICIO 13:
 
 ACTIVIDAD 5
 
-![]()
-
-EJERCICIO 1
+EJERCICIO 1: Creo una rama con git branch "v2.0" y la elecciono con git checkout v2.0
 
 ![]()
 
-EJERCICIO 2
+EJERCICIO 2:creo el archivo y añado en la nueva rama el archivo 2.txt
 
 ![]()
 
-EJERCICIO 3
+EJERCICIO 3:Subo la rama a GitHub con  git push --set-upstream origin v2.0 
 
 ![]()
 
-EJERCICIO 4
+EJERCICIO 4:Cambio a la rama main con git checkout main y hago el merge con git merge v2.0
 
 ![]()
 
-EJERCICIO 5
+EJERCICIO 5:
 
 ![]()
 
-EJERCICIO 6
+EJERCICIO 6:
 
 ![]()
 
-EJERCICIO 7
+EJERCICIO 7:
 
 ![]()
 
-EJERCICIO 8
+EJERCICIO 8:
 
 ![]()
 
-EJERCICIO 9
+EJERCICIO 9:
 
 ![]()
 
-EJERCICIO 10
+EJERCICIO 10:
 
 ![]()
 
-EJERCICIO 11
+EJERCICIO 11:
 
 ![]()
 
-EJERCICIO 12
+EJERCICIO 12:
 
 ![]()
 
-EJERCICIO 13
+EJERCICIO 13:
 
 ![]()
 
-EJERCICIO 14
+EJERCICIO 14:
 
 ![]()
 
