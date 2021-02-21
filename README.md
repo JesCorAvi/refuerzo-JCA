@@ -99,15 +99,15 @@ EJERCICIO 10:Organización creada
 
 ![](https://github.com/JesCorAvi/refuerzo-JCA/blob/main/capturas/2%20captura%2010.png)
 
-EJERCICIO 11:
+EJERCICIO 11: como solo dos personas aceptaron entrar a mi proyecto, cree dos grupos pero solo con una persona cada uno
 
-![]()
+![](https://github.com/JesCorAvi/refuerzo-JCA/blob/main/capturas/2%20captura%2011.png)
 
 EJERCICIO 12:
 
 ![](https://github.com/JesCorAvi/refuerzo-JCA/blob/main/capturas/2%20captura%2012.png)
 
-EJERCICIO 13: Hice un fork del reporsitorio de franciscomfm y el ae archivo index añadi mmi nombre en un <h1>
+EJERCICIO 13: Hice un fork del reporsitorio de franciscomfm y el el archivo index añadí mmi nombre en un <h1>
 
 ![](https://github.com/JesCorAvi/refuerzo-JCA/blob/main/capturas/2%20captura%2013.png)
 
