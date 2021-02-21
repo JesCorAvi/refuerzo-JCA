@@ -109,7 +109,7 @@ EJERCICIO 12:
 
 EJERCICIO 13: Hice un fork del reporsitorio de franciscomfm y el ae archivo index añadi mmi nombre en un <h1>
 
-![]()
+![](https://github.com/JesCorAvi/refuerzo-JCA/blob/main/capturas/2%20captura%2013.png)
 
 EJERCICIO 14:
 
